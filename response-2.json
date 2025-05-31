@@ -1,0 +1,82 @@
+{
+  "patient_info": {
+    "name": "MR ARPIT SARKAR",
+    "age": 30,
+    "gender": "Male",
+    "registration_number": "3104295",
+    "episode_number": "IP01462062",
+    "father_name": "AMIT SARKAR",
+    "address": "A 402 APPU ENCLAVE, PLOT NO3, D SEC 11 DWARKA PH 1, SEC-11 DELHI 110075",
+    "admission_date": "2025-02-03",
+    "admission_time": "08:11PM",
+    "ward": "WD-2F(A)",
+    "bed": "2201 CAT-1C, DELUXE",
+    "unit": "GASTROENTEROLOGY",
+    "number_of_days": 14
+  },
+  "hospital_info": {
+    "name": "SIR GANGA RAM HOSPITAL",
+    "address": "Rajinder Nagar, New Delhi 110060",
+    "GSTIN": "07AABTS4366E1ZH",
+    "SAC_Code": "999311",
+    "printed_datetime": "2025-02-16T14:07:00"
+  },
+  "billing_items": [
+    {
+      "category": "Room Rent Charges",
+      "items": [
+        { "date": "2025-02-03", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-04", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-05", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-06", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-07", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-08", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-09", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-10", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-11", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-12", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-13", "description": "Room rent", "amount": 20000 },
+        { "date": "2025-02-14", "description": "Room rent", "amount": 16000 },
+        { "date": "2025-02-15", "description": "Room rent", "amount": 16000 }
+      ]
+    },
+    {
+      "category": "GST on Room Rent",
+      "items": [
+        { "date": "2025-02-03", "amount": 1000 },
+        { "date": "2025-02-04", "amount": 1000 },
+        { "date": "2025-02-05", "amount": 1000 },
+        { "date": "2025-02-06", "amount": 1000 },
+        { "date": "2025-02-07", "amount": 1000 },
+        { "date": "2025-02-08", "amount": 1000 },
+        { "date": "2025-02-09", "amount": 1000 },
+        { "date": "2025-02-10", "amount": 1000 },
+        { "date": "2025-02-11", "amount": 1000 },
+        { "date": "2025-02-12", "amount": 1000 },
+        { "date": "2025-02-13", "amount": 1000 },
+        { "date": "2025-02-14", "amount": 800 },
+        { "date": "2025-02-15", "amount": 800 }
+      ]
+    },
+    {
+      "category": "Ultrasound Charges",
+      "items": [
+        { "date": "2025-02-04", "description": "Ultrasound whole abdomen & pelvis", "amount": 3000 },
+        { "date": "2025-02-11", "description": "Ultrasound for residual urine", "amount": 500 }
+      ]
+    },
+    {
+      "category": "Doctor Visit Charges",
+      "sample": "Multiple visits under Gastroenterology and Urology departments from 2025-02-04 to 2025-02-15"
+    },
+    {
+      "category": "Medicines",
+      "note": "Extensive itemized medication entries across dates with product name, quantity, and cost"
+    }
+  ],
+  "total_summary": {
+    "approx_total_room_rent": 260000,
+    "approx_total_gst_on_room_rent": 12800,
+    "other_service_estimate": "Multiple lab tests, doctor visits, and medicines included — total not calculated due to length"
+  }
+}

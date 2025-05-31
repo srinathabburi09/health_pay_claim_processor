@@ -1,0 +1,52 @@
+{
+  "type": "bill",
+  "hospital_name": "Max Healthcare",
+  "patient_name": "Mrs. Nandi Rawat",
+  "admission_date": "2025-02-03",
+  "admission_time": "03:59",
+  "bed": "VSH-DL-3407",
+  "doctor": "Hemant Gupta and Team",
+  "address": "C-394 SEC-22, Noida, Uttar Pradesh, 201301, India",
+  "insurance_company": "ACKO General Insurance Ltd",
+  "policy_number": "0",
+  "credit_limit": 332602.00,
+  "date_of_service": "2025-02-03 to 2025-02-07",
+  "gstin": "09AACCC4239Q1Z6",
+  "services": [
+    {
+      "name": "Interlocking Nailing Femur (Double)",
+      "amount": 195500.00
+    },
+    {
+      "name": "Blood Bank",
+      "amount": 12387.00
+    },
+    {
+      "name": "Consultation",
+      "amount": 2400.00
+    },
+    {
+      "name": "Drugs",
+      "amount": 28286.22
+    },
+    {
+      "name": "Investigations",
+      "amount": 4625.00
+    },
+    {
+      "name": "Medical Consumable",
+      "amount": 84049.37
+    },
+    {
+      "name": "Other Charges",
+      "amount": 1530.00
+    },
+    {
+      "name": "Room Rent",
+      "amount": 3825.00
+    }
+  ],
+  "total_amount": 332602.59,
+  "gst": null,
+  "total_with_gst": 332602.59
+}

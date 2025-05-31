@@ -1,0 +1,65 @@
+{
+  "claim_details": {
+    "claim_id": "25020602669-2",
+    "date": "2024-04-27",
+    "time": "12:07:45",
+    "patient_name": "Yashodha",
+    "hospital": {
+      "name": "Narayana Health",
+      "address": "Hosur Road, Bangalore"
+    },
+    "admission_date": "2024-04-19",
+    "discharge_date": "2024-04-22",
+    "diagnosis": "Bilateral knee osteoarthritis",
+    "treatment": "Total Knee Replacement (Right Knee)",
+    "claim_amount": {
+      "total_billed": 320000,
+      "approved": 300000,
+      "discount": 20000
+    }
+  },
+  "patient_details": {
+    "age": 64,
+    "gender": "Female",
+    "insured_id": "INS123456789",
+    "policy_number": "POL987654321",
+    "relationship": "Self"
+  },
+  "treatment_summary": {
+    "procedure": "Right Total Knee Replacement",
+    "doctor": "Dr. Anil Kumar",
+    "anesthesia": "Spinal + Epidural",
+    "stay": {
+      "days": 3,
+      "room_type": "Single Room"
+    }
+  },
+  "billing_breakup": [
+    {
+      "item": "Room Charges",
+      "amount": 30000
+    },
+    {
+      "item": "Surgery Charges",
+      "amount": 150000
+    },
+    {
+      "item": "Implants",
+      "amount": 100000
+    },
+    {
+      "item": "Medicines",
+      "amount": 20000
+    },
+    {
+      "item": "Other Services",
+      "amount": 20000
+    }
+  ],
+  "insurance_processing": {
+    "insurer": "XYZ Health Insurance Co.",
+    "claim_status": "Approved",
+    "approval_date": "2024-04-25",
+    "settlement_amount": 300000
+  }
+}
